@@ -6,6 +6,7 @@ add = a+b
 print(add)
 
 print('hai')
+add = 25
 
 print('thank you')
 

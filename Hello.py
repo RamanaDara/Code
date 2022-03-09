@@ -5,7 +5,7 @@ b = 20
 add = a+b
 print(add)
 
-print('Hello world')
+print('hai')
 
 print('thank you')
 

@@ -9,3 +9,6 @@ print('Hello world')
 
 print('thank you')
 
+print('Python language is good')
+
+
